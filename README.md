@@ -33,6 +33,7 @@ You can tweak the following variables in the script:
 t_hot = 25       # Temperature threshold for 'hot' (in Celsius)
 t_cold = 18      # Temperature threshold for 'cold'
 t_adjust = 1.5   # Manual sensor calibration value
+'''
 
 ## 📈 Display Legend
 
